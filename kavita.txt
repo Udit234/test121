@@ -1,5 +1,4 @@
 abc def
 ghi jkl
 mno pqr
-stu vwz
 labra ki trh
